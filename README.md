@@ -2,7 +2,7 @@
     
 志愿者小程序, 功能包括平台资讯，爱心榜，志愿者风采，品牌项目，志愿培训，志愿活动报名等，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
 
-![输入图片说明](demo/A03%E5%BF%97%E6%84%BF%E8%80%85.png)
+![image](https://user-images.githubusercontent.com/100257765/155265717-01355ec1-e672-4021-9589-c0deab52a2d3.png)
  
 
 ## 技术运用
@@ -12,34 +12,34 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
-- 俺的微信:
-
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+ 
 
 ## 演示
 
- ![输入图片说明](demo/A03%E5%BF%97%E6%84%BF%E8%80%85.png)
+![image](https://user-images.githubusercontent.com/100257765/155265730-34675d25-11ed-459e-a8e6-10ba089d1476.png)
 
 ## 安装
  
 - 安装手册见源码包里的word文档
 
 ## 截图
-![输入图片说明](demo/b6663b3dbd241b24584a524065777fd.png)
- ![输入图片说明](demo/51e20c216325114a571f2041ec313a3.png)
-![输入图片说明](demo/b28077f51cf8d5dc132c13bb224b19a.png)
-![输入图片说明](demo/770cc46114d75ab36b60cf02cea86c2.png)
-![输入图片说明](demo/a4929440782396a94b984faf05bded4.png)
-![输入图片说明](demo/331a8d6d50a2c6641bc2de79c3f9d3f.png)
-![输入图片说明](demo/1af40afb3b2305187f3bc67c046f25d.png)
-![输入图片说明](demo/60887f9d423b5eda3742a716cab4875.png)
-![输入图片说明](demo/6b5cf55e84ae9b071a1439138c8493e.png)
-![输入图片说明](demo/e2132103f602ceeda5521514270b36b.png)
-![输入图片说明](demo/8039f07fec5215097f0bf0eade02890.png)
-![输入图片说明](demo/7f02c18d37272e4984f59b8e177953a.png)
-![输入图片说明](demo/32cd2078efac7032bf7e7431025ee0f.png)
-![输入图片说明](demo/8e213e85477068165818a1cf12a56fd.png)
-![输入图片说明](demo/610bf29544918fed47200d5548fa30a.png)
+ 
+![image](https://user-images.githubusercontent.com/100257765/155265743-ac21e633-3e54-4d9a-a5fd-310b460bfbe2.png)
+![image](https://user-images.githubusercontent.com/100257765/155265745-77695153-70d6-41df-951b-fa0f262d7fda.png)
+![image](https://user-images.githubusercontent.com/100257765/155265750-fd2733f7-af3c-4eca-9b40-c35a18e2c177.png)
+![image](https://user-images.githubusercontent.com/100257765/155265752-3833d52f-213b-41af-8ae3-593c7aec84de.png)
+![image](https://user-images.githubusercontent.com/100257765/155265760-380b4a41-469c-43a9-baa6-4773d47d5129.png)
+![image](https://user-images.githubusercontent.com/100257765/155265765-ca2f5488-7d89-48db-99a7-2dee53abe476.png)
+![image](https://user-images.githubusercontent.com/100257765/155265768-dd943073-3dcb-488e-a5e7-783faf50d0a1.png)
+![image](https://user-images.githubusercontent.com/100257765/155265772-abec3f67-56d0-4506-b7c5-28d7f138f169.png)
+![image](https://user-images.githubusercontent.com/100257765/155265775-abb8951f-ebb1-485a-b750-223364bf01cb.png)
+![image](https://user-images.githubusercontent.com/100257765/155265777-646caa04-510e-4753-af53-f388b669af84.png)
+![image](https://user-images.githubusercontent.com/100257765/155265781-9245db30-9515-4561-8d6c-bb7fe5c0d1ce.png)
+![image](https://user-images.githubusercontent.com/100257765/155265790-a20116f3-da0a-45ee-bb62-8371f06446b4.png)
+![image](https://user-images.githubusercontent.com/100257765/155265792-80c3fe0b-e257-49bb-9d96-488d637e8878.png)
+![image](https://user-images.githubusercontent.com/100257765/155265799-1a330f00-d344-4e76-9181-58101f01312a.png)
+![image](https://user-images.githubusercontent.com/100257765/155265800-b1214c6d-e567-4eaa-b3e0-726f5e216214.png)
+
+
+
 
